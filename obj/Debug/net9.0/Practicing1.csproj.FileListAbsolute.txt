@@ -1,0 +1,14 @@
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.AssemblyInfoInputs.cache
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.AssemblyInfo.cs
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.csproj.CoreCompileInputs.cache
+D:\Projects\C#\CS_Practice\Practicing1\bin\Debug\net9.0\Practicing1.exe
+D:\Projects\C#\CS_Practice\Practicing1\bin\Debug\net9.0\Practicing1.deps.json
+D:\Projects\C#\CS_Practice\Practicing1\bin\Debug\net9.0\Practicing1.runtimeconfig.json
+D:\Projects\C#\CS_Practice\Practicing1\bin\Debug\net9.0\Practicing1.dll
+D:\Projects\C#\CS_Practice\Practicing1\bin\Debug\net9.0\Practicing1.pdb
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.dll
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\refint\Practicing1.dll
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.pdb
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\Practicing1.genruntimeconfig.cache
+D:\Projects\C#\CS_Practice\Practicing1\obj\Debug\net9.0\ref\Practicing1.dll
